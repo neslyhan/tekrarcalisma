@@ -1,3 +1,8 @@
 git checkout
 git revert
 git reset
+
+
+git checkout değiştir
+git revert silmeden değiştir
+git reset silerek değiştir
