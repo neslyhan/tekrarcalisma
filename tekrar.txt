@@ -6,3 +6,7 @@ git reset
 git checkout değiştir
 git revert silmeden değiştir
 git reset silerek değiştir
+
+tekrar 1
+tekrar 2 
+tekrar 3
